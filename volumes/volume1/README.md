@@ -10,7 +10,7 @@ See [problem list](https://aceptaelreto.com/problems/volumes.php/?vol=71) in ¡A
 | 103 |
 | 104 |
 | 105 |
-| [106](/volumes/volume1/problem106/) | [Códigos de barras]((/volumes/volume1/problem106/)) |
+| [106](/volumes/volume1/problem106/) | [Códigos de barras](/volumes/volume1/problem106/) | No | No | Yes |
 | 107 |
 | 108 |
 | 109 |
