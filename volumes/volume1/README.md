@@ -52,7 +52,7 @@ See [problem list](https://aceptaelreto.com/problems/volumes.php/?vol=71) in ¡A
 | 145 |
 | 146 |
 | 147 |
-| 148 |
+| [148](/volumes/volume1/problem148) | [Nochevieja](/volumes/volume1/problem148) | No | No | Yes |
 | 149 |
 | 150 |
 | 151 |
