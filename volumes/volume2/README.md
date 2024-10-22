@@ -52,7 +52,7 @@ See [problem list](https://aceptaelreto.com/problems/volumes.php/?vol=75) in ¡A
 | 245 |
 | 246 |
 | 247 |
-| 248 |
+| [248](/volumes/volume2/problem248) | [Los premios de las tragaperras](/volumes/volume2/problem248) | No | No | Yes |
 | 249 |
 | 250 |
 | 251 |
