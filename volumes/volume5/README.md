@@ -84,7 +84,7 @@ See [problem list](https://aceptaelreto.com/problems/volumes.php/?vol=120) in ¡
 | 577 |
 | 578 |
 | 579 |
-| 580 |
+| [580](/volumes/volume5/problem580) | [Foto con Mafalda](/volumes/volume5/problem580) | No | No | Yes |
 | 581 |
 | 582 |
 | 583 |
